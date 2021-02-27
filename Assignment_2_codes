@@ -1,5 +1,5 @@
 ### python codes for reading, displaying, plotting a histogram and smoothing of a brain image 
-#:/usr/bin/python
+
 #import statement blocks
 import numpy as np 
 import matplotlib.pyplot as plt
