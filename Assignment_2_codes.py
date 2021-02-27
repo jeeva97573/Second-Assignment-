@@ -1,10 +1,10 @@
 ### python codes for reading, displaying, plotting a histogram and smoothing of a brain image 
 
 #import statement blocks
-Import numpy as np 
-Import matplotlib.pyplot as plt
-Import scipy
-From scipy import misc,ndimage
+import numpy as np 
+import matplotlib.pyplot as plt
+import scipy
+from scipy import misc,ndimage
 
 #read the image into an array 
 brain_image=plt.imread(‘Brain.jpg’)
